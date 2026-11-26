@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\source\\repos\\ASSIGNMENT 3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28D7FC8A-8506-EDC5-711A-78D179798FF9}|ASSIGNMENT 3.csproj|c:\\users\\asus\\source\\repos\\assignment 3\\q9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28D7FC8A-8506-EDC5-711A-78D179798FF9}|ASSIGNMENT 3.csproj|solutionrelative:q9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D7FC8A-8506-EDC5-711A-78D179798FF9}|ASSIGNMENT 3.csproj|c:\\users\\asus\\source\\repos\\assignment 3\\q8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28D7FC8A-8506-EDC5-711A-78D179798FF9}|ASSIGNMENT 3.csproj|solutionrelative:q8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D7FC8A-8506-EDC5-711A-78D179798FF9}|ASSIGNMENT 3.csproj|c:\\users\\asus\\source\\repos\\assignment 3\\q7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28D7FC8A-8506-EDC5-711A-78D179798FF9}|ASSIGNMENT 3.csproj|solutionrelative:q7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D7FC8A-8506-EDC5-711A-78D179798FF9}|ASSIGNMENT 3.csproj|c:\\users\\asus\\source\\repos\\assignment 3\\q6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28D7FC8A-8506-EDC5-711A-78D179798FF9}|ASSIGNMENT 3.csproj|solutionrelative:q6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D7FC8A-8506-EDC5-711A-78D179798FF9}|ASSIGNMENT 3.csproj|c:\\users\\asus\\source\\repos\\assignment 3\\q5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28D7FC8A-8506-EDC5-711A-78D179798FF9}|ASSIGNMENT 3.csproj|solutionrelative:q5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D7FC8A-8506-EDC5-711A-78D179798FF9}|ASSIGNMENT 3.csproj|c:\\users\\asus\\source\\repos\\assignment 3\\q4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28D7FC8A-8506-EDC5-711A-78D179798FF9}|ASSIGNMENT 3.csproj|solutionrelative:q4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D7FC8A-8506-EDC5-711A-78D179798FF9}|ASSIGNMENT 3.csproj|c:\\users\\asus\\source\\repos\\assignment 3\\q3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28D7FC8A-8506-EDC5-711A-78D179798FF9}|ASSIGNMENT 3.csproj|solutionrelative:q3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D7FC8A-8506-EDC5-711A-78D179798FF9}|ASSIGNMENT 3.csproj|c:\\users\\asus\\source\\repos\\assignment 3\\q2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28D7FC8A-8506-EDC5-711A-78D179798FF9}|ASSIGNMENT 3.csproj|solutionrelative:q2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D7FC8A-8506-EDC5-711A-78D179798FF9}|ASSIGNMENT 3.csproj|c:\\users\\asus\\source\\repos\\assignment 3\\q1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28D7FC8A-8506-EDC5-711A-78D179798FF9}|ASSIGNMENT 3.csproj|solutionrelative:q1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Q9.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\ASSIGNMENT 3\\Q9.cs",
+              "RelativeDocumentMoniker": "Q9.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\ASSIGNMENT 3\\Q9.cs",
+              "RelativeToolTip": "Q9.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAowBcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-22T22:26:45.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Q8.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\ASSIGNMENT 3\\Q8.cs",
+              "RelativeDocumentMoniker": "Q8.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\ASSIGNMENT 3\\Q8.cs",
+              "RelativeToolTip": "Q8.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwA4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-22T22:26:06.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Q7.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\ASSIGNMENT 3\\Q7.cs",
+              "RelativeDocumentMoniker": "Q7.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\ASSIGNMENT 3\\Q7.cs",
+              "RelativeToolTip": "Q7.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAswBwAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-22T22:25:32.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Q6.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\ASSIGNMENT 3\\Q6.cs",
+              "RelativeDocumentMoniker": "Q6.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\ASSIGNMENT 3\\Q6.cs",
+              "RelativeToolTip": "Q6.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAowDEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-22T22:24:59.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Q5.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\ASSIGNMENT 3\\Q5.cs",
+              "RelativeDocumentMoniker": "Q5.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\ASSIGNMENT 3\\Q5.cs",
+              "RelativeToolTip": "Q5.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-22T22:24:25.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Q4.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\ASSIGNMENT 3\\Q4.cs",
+              "RelativeDocumentMoniker": "Q4.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\ASSIGNMENT 3\\Q4.cs",
+              "RelativeToolTip": "Q4.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAswB8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-22T22:21:55.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Q3.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\ASSIGNMENT 3\\Q3.cs",
+              "RelativeDocumentMoniker": "Q3.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\ASSIGNMENT 3\\Q3.cs",
+              "RelativeToolTip": "Q3.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAowBwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-22T22:20:42.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Q2.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\ASSIGNMENT 3\\Q2.cs",
+              "RelativeDocumentMoniker": "Q2.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\ASSIGNMENT 3\\Q2.cs",
+              "RelativeToolTip": "Q2.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwC4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-22T22:19:23.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Q1.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\ASSIGNMENT 3\\Q1.cs",
+              "RelativeDocumentMoniker": "Q1.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\ASSIGNMENT 3\\Q1.cs",
+              "RelativeToolTip": "Q1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-22T22:17:35.909Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
